@@ -1,0 +1,58 @@
+main{
+  
+}
+
+#mn h1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 40px;
+  margin-top: 50px;
+}
+#mn p{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 25px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+#mn li{
+ font-family: 'Montserrat', sans-serif;
+  line-height: 25px;
+  margin-left: 40px;
+}
+#mn code{
+  background-color: #f1f1f1;
+  margin-left: 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-left: 10px;
+  line-height: 35px;
+  display:flex;
+  max-width: 80%;
+}
+#mySidebar{
+  
+  background-color: #f1f1f1;
+  
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
+#mySidebar a{
+  
+   background-color: #dddddd;
+  text-align: center;
+  color: #000;
+  border: 1px solid #555;
+  padding: 8px 16px;
+  font-family: 'Kanit', sans-serif;
+  text-decoration: none;
+}
+
+
+#mySidebar h1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+
